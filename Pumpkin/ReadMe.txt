@@ -9,3 +9,7 @@ https://stackoverflow.com/questions/17615260/the-certificate-chain-was-issued-by
 * If you get the error "Could not find a part of the path '...\bin\roslyn\csc.exe'" run following command in Package Manager Console:
 update-package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
 https://stackoverflow.com/questions/32780315/could-not-find-a-part-of-the-path-bin-roslyn-csc-exe
+
+2) Fill tables with dummy data
+
+* Use SQL scripts in \SQL\Fill_Blogging_Tables.sql
